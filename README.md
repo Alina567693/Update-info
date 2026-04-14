@@ -1,30 +1,20 @@
 Dear Customer,
-Thank you for your $348.37 purchase. Your one-year subscription to Norton 360 Life-lock  Anti-virus is now active. At any time, you can modify, cancel, or change your plan. Ask the customer for assistance.
 
-Order Number: M9R4X-CDJ54-CJ
-Transaction Date: April, 14, 2026
-Product :- Norton 360 Life-lock Anti-virus
-Transaction Status: Completed
-Total Amount: $348.37 USD
-**********************************************************
-CLIENT ASSISTANCE DESK
-Phone: +1 (877) 411-2883
-Availability: Monday–Friday, 9:00 AM–6:00 PM ET
-**********************************************************
-Transaction Details
-Payment Method :- Paypal
-Description Quantity Amount (USD)
-Total Paid: $348.37 USD
-Should you require any clarification regarding this record, reach out to our Client Support team at your earliest convenience:
-**********************************************************
-CLIENT ASSISTANCE DESK
-Phone: +1 (877) 411-2883
-Availability: Monday–Friday, 9:00 AM–6:00 PM ET
-**********************************************************
-In the event that you did not authorize this purchase, contact Client Support immediately to secure your account credentials.
-System-generated notification. Direct replies are not monitored by the administration.
-Billing Team
-Please view your receipt attached below:
+We've successfully activated your Norton 360 Life-lock Premium Plan.  
+Within the next 24 hours, a 459.85  USD payment is expected to be taken out of your account.
 
 
+Transaction Specifics:
+Plan: Norton 360 Life-lock Premium Plan
+Subscription ID: #SE-18542328
+Date of Start: April, 14, 2026
+Charged Amount: 459.85  USD Billing Cycle: Auto
 
+Your plan includes:
+Norton 360 Life-lock Agents provide priority service around-the-clock at +1 (877) 411-2883
+
+Replacements and repairs for covered issues
+Help both in-person and online
+Protection against accidental harm (if appropriate)
+
+Important Notice: Please call our team right away at +1 (877) 411-2883  if you did not authorize this subscription or would like to cancel right away.
